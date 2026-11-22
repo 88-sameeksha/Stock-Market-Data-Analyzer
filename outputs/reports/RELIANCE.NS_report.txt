@@ -1,0 +1,29 @@
+STOCK MARKET ANALYSIS REPORT
+========================================
+Ticker: RELIANCE.NS
+Period: 2025-01-01 to 2025-12-31
+Records: 249
+
+PRICE ANALYSIS
+Highest price: 1568.15
+Lowest price: 1151.95
+First adjusted close: 1210.79
+Last adjusted close: 1563.17
+
+PERFORMANCE
+Total historical return: 29.10%
+Average daily return: 0.1106%
+Best daily return: 5.26%
+Worst daily return: -3.52%
+
+RISK
+Daily volatility: 1.2314%
+Annualized volatility: 19.55%
+Maximum drawdown: -11.82%
+
+TREND
+Above 50-day moving average
+
+DISCLAIMER
+Educational analysis only. Not financial advice.
+Historical performance does not guarantee future results.

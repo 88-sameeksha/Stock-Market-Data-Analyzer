@@ -1,0 +1,29 @@
+STOCK MARKET ANALYSIS REPORT
+========================================
+Ticker: AAPL
+Period: 2025-01-02 to 2025-12-31
+Records: 250
+
+PRICE ANALYSIS
+Highest price: 285.20
+Lowest price: 171.24
+First adjusted close: 241.91
+Last adjusted close: 270.92
+
+PERFORMANCE
+Total historical return: 11.99%
+Average daily return: 0.0661%
+Best daily return: 15.33%
+Worst daily return: -9.25%
+
+RISK
+Daily volatility: 2.0450%
+Annualized volatility: 32.46%
+Maximum drawdown: -30.22%
+
+TREND
+Below 50-day moving average
+
+DISCLAIMER
+Educational analysis only. Not financial advice.
+Historical performance does not guarantee future results.
